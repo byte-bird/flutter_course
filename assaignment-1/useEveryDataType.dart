@@ -1,7 +1,7 @@
 import 'dart:ffi';
 
 void main() {
-  // -- interger --
+  // -- integer --
   int age = 22;
   print('My age is: ${age}');
 
